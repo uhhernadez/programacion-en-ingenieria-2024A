@@ -23,5 +23,4 @@ int main () {
         cout << "La variable 'c' tiene el mayor valor" << endl;
       }
   } 
-
 }
