@@ -22,4 +22,4 @@ int main () {
     cout << simbolo;
   }
   cout << endl;
-}
+  }
