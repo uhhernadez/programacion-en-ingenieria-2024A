@@ -1,9 +1,12 @@
 #include <iostream>
 #include <vector>
+#include <string>
+
 using namespace std;
 
 int main () {       //0, 1,  2,  3, 4, 5
-  vector<int> arreglo{2, 3, 15, 15, 3, 2};
+//  vector<int> arreglo{2, 3, 15, 15, 3, 2};
+  string arreglo = "anna"; // Palíndromo reconocer
 
   if (arreglo[0] == arreglo[5]) {
     if (arreglo[1] == arreglo[4]) {
