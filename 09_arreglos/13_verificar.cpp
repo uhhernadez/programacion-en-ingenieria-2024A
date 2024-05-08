@@ -12,7 +12,7 @@ int main () {       //0, 1,  2,  3, 4, 5
     if (arreglo[1] == arreglo[4]) {
       if (arreglo[2] == arreglo[3]) {
         cout << "Cumple con la condicion" << endl;  
-      }
+        }
     }
   }
   int N = arreglo.size();
