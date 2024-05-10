@@ -47,6 +47,11 @@ void Verso6 () {
 int main () {
   Verso1();
   Verso2();
+  Verso3();
+  Verso4();
+  Verso5();
   Verso1();
   Verso2();
+  Verso6();
+  Verso5();
 }
