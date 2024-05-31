@@ -1,0 +1,12 @@
+Ejemplo: Jane tira para ver si su personaje descubre a un zombi que se acerca a
+ella en silencio por un oscuro cementerio. Tiene una puntuación de 45% en la
+habilidad de «Descubrir». Tira los dos dados y saca un «60» en el de porcentaje
+y un «3» en el de diez caras. Al sumarlos obtiene un total de 63, muy por encima
+de su puntuación de 45. No ve acercarse al zombi.
+
+Si, por ejemplo, un personaje quiere buscar pistas en una habitación, el Maestro
+le pedirá un acierto en la habilidad de Localizar.  Digamos que el personaje
+tiene una puntuación del 45% en esta habilidad, si tira los dados obtiene 34 se
+puede considerar que la tirada ha sido exitosa, por lo que el Maestro le dará al
+jugador la pista oculta. Si tirar los dados da, por ejemplo, 82, entonces la
+tirada falló y el personaje no encontrará la pista que busca.
